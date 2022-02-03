@@ -5,9 +5,8 @@ import "C"
 
 import (
 	"fmt"
+	"iracing-sdk"
 	"os"
-
-	"github.com/quimcalpe/iracing-sdk"
 )
 
 func main() {

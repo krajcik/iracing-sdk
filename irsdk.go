@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"gopkg.in/yaml.v2"
 	"io/ioutil"
+	"iracing-sdk/lib/winevents"
 	"log"
 	"strings"
 	"time"
 
 	"github.com/hidez8891/shm"
-	"github.com/quimcalpe/iracing-sdk/lib/winevents"
 )
 
 // IRSDK is the main SDK object clients must use
